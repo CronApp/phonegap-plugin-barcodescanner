@@ -24,7 +24,7 @@
     "cordova-browser",
     "cordova:plugin"
   ],
-  "author": "Adobe PhoneGap Team",
+  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/CronApp/phonegap-plugin-barcodescanner/issues"
